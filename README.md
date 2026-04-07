@@ -34,5 +34,4 @@ The final output provides the layer sequence as a comma-separated list of piece 
 2. Identify and pair projection layers using the Hongarian Algorithm
 3. Order blocks using signal perturbation heuristics
 4. Refine ordering through local search optimization
-5. Validate against prediction accuracy</content>
-<parameter name="filePath">/home/dvir/Downloads/historical_data_and_pieces/summary.md
+5. Validate against prediction accuracy
